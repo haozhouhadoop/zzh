@@ -1,8 +1,8 @@
 ## Settings
-title: pRoJEct-NeGYa
-owner: "DeerRIDER"
-url: "https://akiritsu.github.io"
-baseurl: "/pRoJEct-NeGYa"
+title: zzh的博客
+owner: "zzh"
+url: "https://haozhouhadoop.github.io"
+baseurl: "/zzh"
 permalink: /:title/
 description: ""
 markdown: kramdown
@@ -10,8 +10,8 @@ webrick:
   headers:
     Access-Control-Allow-Origin: "*"
 ## Global Variables
-email: "akiritsu@outlook.com"
-github: "akiritsu/pRoJEct-NeGYa"
+email: "1096485451@qq.com"
+github: "haozhouhadoop"
 # path to: css/, fonts/, img/ and js/
 assets_path: "/assets" # i.e. "/assets" 
 statement: "Designed by DeerRIDER, All Rights Reserved"
